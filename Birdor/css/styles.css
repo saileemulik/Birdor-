@@ -1,0 +1,27 @@
+body{
+    background-color: #F5EFE7;
+}
+.title-image{
+    width: 130%;
+}
+.navbar-brand{
+   color: blue;
+   font-size: 2.5rem;
+}
+.nav-link{
+    color: blue;
+}
+.row{
+    padding: 10% 20%;
+}
+.best{
+    color: blue;
+    font-size: 3.5rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+}
+.bird,.bluebird{
+    font-family:'Montserrat', sans-serif ;
+    font-size: 3.5rem;
+    font-weight: lighter;
+}
